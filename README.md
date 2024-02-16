@@ -8,14 +8,14 @@ Hello there! I'm Khusniddin Mukhiddinov, a passionate software programming enthu
 
 ## 🚀 Skills
 
-- **Programming Languages:** C++, Java
+- **Programming Languages:** C++, Java, C#, html, css
 - **Mobile Development:** Flutter
 - **Database:** SQL, MySQL, PostgreSQL
-- **Programming Paradigm:** Object-Oriented Programming (OOP)
+- **Programming Paradigm:** Object-Oriented Programming (OOP), Functional Programming
 - **Mathematics:** Strong proficiency
 - **Tools:** GitHub
 
-## 🌱 I’m currently learning
+##👨‍🎓 I’m currently learning
 
 I am currently focused on enhancing my programming skills and knowledge in software development.
 
