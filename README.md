@@ -15,7 +15,7 @@ Hello there! I'm Khusniddin Mukhiddinov, a passionate software programming enthu
 - **Mathematics:** Strong proficiency
 - **Tools:** GitHub
 
-##👨‍🎓 I’m currently learning
+## 👨‍🎓 I’m currently learning
 
 I am currently focused on enhancing my programming skills and knowledge in software development.
 
