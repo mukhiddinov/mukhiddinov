@@ -2,7 +2,7 @@
 
 ## 👋 About Me
 
-Hello there! I'm Khusniddin Mukhiddinov, a passionate software programming enthusiast based in [Your Location]. Currently pursuing my studies in Software Programming at **PDP University**.
+Hello there! I'm Khusniddin Mukhiddinov, a passionate software programming enthusiast based in Tashkent. Currently pursuing my studies in Software Programming at **PDP University**.
 
 ## 🚀 Skills
 
@@ -40,6 +40,7 @@ I'm open to collaborating on interesting software projects. If you have an idea 
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mukhiddinov&show_icons=true&hide=issues&count_private=true&theme=radical)
+
 
 ## 🌟 Fun Facts
 
