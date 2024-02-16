@@ -1,8 +1,10 @@
-# Khusniddin Mukhiddinov
+<h1 align = "center">Khusniddin Mukhiddinov</h1>
 
 ## 👋 About Me
 
 Hello there! I'm Khusniddin Mukhiddinov, a passionate software programming enthusiast based in Tashkent. Currently pursuing my studies in Software Programming at **PDP University**.
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukhiddinov&label=Profile+visitors&color=yellow&style=flat-square" alt="mukhiddinov" /> </p>
 
 ## 🚀 Skills
 
