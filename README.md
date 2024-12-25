@@ -22,8 +22,10 @@ I am currently focused on enhancing my programming skills and knowledge in softw
 
 ## 💼 Professional Experience
 
-- **Software Programming Student at PDP University** - February 2023 to Present
-  - Currently learning and building a strong foundation in software programming.
+- **Software engineer at TenzorSoft** - October 2024 to Present
+  - Face recognition whith OpenCV
+  - Uzbek Car Plate recognition with yolo, EasyOCR
+  - Websocket connections on 2 server layers
 
 ## 🌐 Connect with me
 
